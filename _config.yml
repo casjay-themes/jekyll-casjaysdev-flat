@@ -31,7 +31,7 @@ show_downloads: false
 # set site author
 author:
   name: admin
-  url: http://casjay.net
+  url: http://casjay.pro
 
 # show directory listing
 show_dir_listing: true
